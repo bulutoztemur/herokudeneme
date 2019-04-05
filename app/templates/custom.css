@@ -1,0 +1,23 @@
+body{
+    background-image: url("img/bg.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+  
+}
+
+.opak{
+    opacity:0.90
+}
+
+.login{
+    width:30%;
+    margin-top:10em
+}
+
+.deneme{
+    margin-top:-1em
+}
+
+
+
